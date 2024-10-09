@@ -1,0 +1,2 @@
+# clasepandas
+programacion clase IA
